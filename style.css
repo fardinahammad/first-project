@@ -3,3 +3,10 @@ h2{
     font-size: 44px;
     background-color: aqua;
 }
+div{
+    width: 800px;
+    background-color: crimson;
+}
+img{
+    width: 500px;
+}
